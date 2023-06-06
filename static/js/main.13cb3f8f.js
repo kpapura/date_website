@@ -1,0 +1,2 @@
+document.getElementById("openModal").addEventListener("click",(function(){document.getElementById("myModal").style.display="block"})),document.getElementsByClassName("close")[0].addEventListener("click",(function(){document.getElementById("myModal").style.display="none"}));
+//# sourceMappingURL=main.13cb3f8f.js.map
